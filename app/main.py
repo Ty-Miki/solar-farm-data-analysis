@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load your dataset
-df = pd.read_csv(r'C:\Users\mekbi\Desktop\Kifiya\week-0\notebooks\merged-solar-radiation-measurement.csv')
+df = pd.read_csv(r'./app/compressed-solar-radiation-measurements.csv')
 
 st.title('Solar Radiation Dashboard')
 
