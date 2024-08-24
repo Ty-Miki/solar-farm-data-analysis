@@ -14,3 +14,12 @@
 - performed the EDA and Statistical analysis in the jupyter notebook *EDA.ipynb* found at the *notebooks* directory.
 
 *All explanations about this step are in the ***README.md*** file of notebooks directory*
+
+
+## Running the Streamlit Dashboard
+
+To run the Streamlit dashboard, navigate to the `app` directory and execute the following command:
+
+```bash
+streamlit run main.p
+```
