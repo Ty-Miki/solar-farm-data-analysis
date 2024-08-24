@@ -23,3 +23,8 @@ To run the Streamlit dashboard, navigate to the `app` directory and execute the 
 ```bash
 streamlit run main.p
 ```
+
+
+## Deployed Dashboard
+
+You can access the live Streamlit dashboard [here](.https://solar-farm-data-analysis-pnn3kwwuba3y5loseuqeyu.streamlit.app/).
